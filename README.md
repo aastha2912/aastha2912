@@ -1,6 +1,6 @@
 # Aastha Mahajan
 
-Software engineer. Built production systems processing 10B records a day, closed a $3.2B regulatory capital gap, and now building agents that find and fix vulnerabilities in real-world open source CVEs.
+Software engineer. Built production systems processing 10B transactions a day, closed a $3.2B regulatory capital gap, and now building agents that find and fix vulnerabilities in real-world open source CVEs.
 
 MEng Cybersecurity @ University of Maryland &nbsp;·&nbsp; Prev: Goldman Sachs &nbsp;·&nbsp; Google (Intrinsic)
 
