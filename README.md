@@ -1,6 +1,6 @@
 # Aastha Mahajan
 
-Software engineer. Built production systems processing 10B records a day, closed a $3.2B regulatory capital gap, and now building agents that find and fix vulnerabilities in LLM-generated code.
+Software engineer. Built production systems processing 10B records a day, closed a $3.2B regulatory capital gap, and now building agents that find and fix vulnerabilities in real-world open source CVEs.
 
 MEng Cybersecurity @ University of Maryland &nbsp;·&nbsp; Prev: Goldman Sachs &nbsp;·&nbsp; Google (Intrinsic)
 
@@ -12,15 +12,15 @@ MEng Cybersecurity @ University of Maryland &nbsp;·&nbsp; Prev: Goldman Sachs &
 
 **Agentic LLM Pipeline for Automated Vulnerability Detection and Repair** *(forthcoming, June 2025)*
 
-End-to-end agentic pipeline for vulnerability detection and patch synthesis across multi-turn code generation contexts. Agent orchestration, context capture instrumentation, eval against real bug corpora.
+End-to-end agentic pipeline for vulnerability detection and patch synthesis across real-world open source CVEs. Agent orchestration, context capture instrumentation, eval against real bug corpora. 78% success rate at under $0.10 per CVE.
 
 **MT-Sec: Benchmarking Correctness and Security in Multi-Turn Code Generation** *(2025)* &nbsp;[arXiv](https://arxiv.org/abs/2510.13859)
 
 Built the benchmark, eval pipeline, and agentic detection layer across 2,376 tasks and 27 CWEs. Key finding: even state-of-the-art models show a 20-27% drop in correct and secure outputs from single-turn to multi-turn, and agents make it worse, not better.
 
-**ARVO Patching Agent Evals** &nbsp;[GitHub](https://github.com/aastha2912/aixcc-afc-archive/tree/main/crs/arvo-patching-agent)
+**ARVO Patching Agent Evals · DARPA AIxCC** &nbsp;[GitHub](https://github.com/aastha2912/aixcc-afc-archive/tree/main/crs/arvo-patching-agent)
 
-Integrated the Theori patching agent with the ARVO dataset and ran structured evals: detection accuracy, patch quality, and how much of the performance is reasoning vs memorization.
+Integrated the Theori patching agent with the ARVO dataset inside the DARPA AIxCC environment and ran structured evals: detection accuracy, patch quality, and how much of the performance is reasoning vs memorization.
 
 **CVE Vulnerability Reproduction Agent** &nbsp;[GitHub](https://github.com/aastha2912/cve-vuln-reproduction)
 
@@ -38,13 +38,16 @@ Agent that takes a CVE description and generates a runnable Docker reproduction 
 - Redesigned the capital allocation engine (linear programming, $93B derivatives portfolio), closing a $3.2B regulatory gap.
 - Shipped a shift-left validation framework, pub/sub tiered data classification, and group-based RBAC platform-wide.
 
+Public filings: [LCR](https://www.goldmansachs.com/investor-relations/financials/other-information/2025/3q-2025-liquidity-coverage-ratio.pdf) &nbsp;·&nbsp; [NSFR](https://www.goldmansachs.com/investor-relations/financials/other-information/2025/3q-4q-nsfr-2025.pdf)
+
 **Intrinsic (Google)** — Security Engineering Intern
 
 `Google · Robotics`
 
-- Static analysis tooling (Semgrep, CodeQL), threat modeling, and ARVO pipeline integration on GCP.
+- Built a Python + PostgreSQL pipeline syncing 70K+ vulnerability findings weekly from GCP SCC and GitHub Actions CI into DefectDojo; cut analyst triage time by 63%.
+- Zero-trust GCP environment (IAP, Workload Identity, Terraform-deployed alerting); drove median triage from 3 days to under 6 hours.
 
-**University of Maryland** - Research Assistant
+**University of Maryland** — Research Assistant
 
 `2024 - 2026 · MEng Cybersecurity`
 
