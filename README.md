@@ -32,20 +32,20 @@ Agent that takes a CVE description and generates a runnable Docker reproduction 
 
 **University of Maryland** — Research Assistant
 
-`2024 - 2026 · MEng Cybersecurity`
+`2025 - 2026 · MEng Cybersecurity`
 
 - Agentic LLM pipelines for vulnerability detection and repair, benchmark engineering, arXiv publication.
 
 **Intrinsic (Google)** — Software Security Engineer Intern
 
-`Google · Robotics`
+`2025 - 2025 · Google · Robotics`
 
 - Built a Python + PostgreSQL pipeline syncing 70K+ vulnerability findings weekly from GCP SCC and GitHub Actions CI into DefectDojo; cut analyst triage time by 63%.
 - Zero-trust GCP environment (IAP, Workload Identity, Terraform-deployed alerting); drove median triage from 3 days to under 6 hours.
 
 **Goldman Sachs** — Software Engineer II
 
-`2021 - 2025 · Fed-regulated financial infrastructure`
+`2021 - 2024 · Fed-regulated financial infrastructure`
 
 - Built LCR/NSFR reporting pipelines processing ~10B records/day across the entire capital reporting stack.
 - Redesigned the capital allocation engine (linear programming, $93B derivatives portfolio), closing a $3.2B regulatory gap.
