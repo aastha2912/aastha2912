@@ -10,7 +10,7 @@ MEng Cybersecurity @ University of Maryland &nbsp;·&nbsp; Prev: Goldman Sachs &
 
 ## Research & Publications
 
-**Agentic LLM Pipeline for Automated Vulnerability Detection and Repair** *(forthcoming, June 2025)*
+**Agentic LLM Pipeline for Automated Vulnerability Detection and Repair** *(forthcoming, June 2026)*
 
 End-to-end agentic pipeline for vulnerability detection and patch synthesis across real-world open source CVEs. Agent orchestration, context capture instrumentation, eval against real bug corpora. 78% success rate at under $0.10 per CVE.
 
