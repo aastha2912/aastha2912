@@ -30,7 +30,20 @@ Agent that takes a CVE description and generates a runnable Docker reproduction 
 
 ## Experience
 
-**Goldman Sachs** — Software Engineer I to II
+**University of Maryland** — Research Assistant
+
+`2024 - 2026 · MEng Cybersecurity`
+
+- Agentic LLM pipelines for vulnerability detection and repair, benchmark engineering, arXiv publication.
+
+**Intrinsic (Google)** — Software Security Engineer Intern
+
+`Google · Robotics`
+
+- Built a Python + PostgreSQL pipeline syncing 70K+ vulnerability findings weekly from GCP SCC and GitHub Actions CI into DefectDojo; cut analyst triage time by 63%.
+- Zero-trust GCP environment (IAP, Workload Identity, Terraform-deployed alerting); drove median triage from 3 days to under 6 hours.
+
+**Goldman Sachs** — Software Engineer II
 
 `2021 - 2025 · Fed-regulated financial infrastructure`
 
@@ -39,19 +52,6 @@ Agent that takes a CVE description and generates a runnable Docker reproduction 
 - Shipped a shift-left validation framework, pub/sub tiered data classification, and group-based RBAC platform-wide.
 
 Public filings: [LCR](https://www.goldmansachs.com/investor-relations/financials/other-information/2025/3q-2025-liquidity-coverage-ratio.pdf) &nbsp;·&nbsp; [NSFR](https://www.goldmansachs.com/investor-relations/financials/other-information/2025/3q-4q-nsfr-2025.pdf)
-
-**Intrinsic (Google)** — Security Engineering Intern
-
-`Google · Robotics`
-
-- Built a Python + PostgreSQL pipeline syncing 70K+ vulnerability findings weekly from GCP SCC and GitHub Actions CI into DefectDojo; cut analyst triage time by 63%.
-- Zero-trust GCP environment (IAP, Workload Identity, Terraform-deployed alerting); drove median triage from 3 days to under 6 hours.
-
-**University of Maryland** — Research Assistant
-
-`2024 - 2026 · MEng Cybersecurity`
-
-- Agentic LLM pipelines for vulnerability detection and repair, benchmark engineering, arXiv publication.
 
 ---
 
