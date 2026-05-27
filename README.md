@@ -48,7 +48,7 @@ Agent that takes a CVE description and generates a runnable Docker reproduction 
 `2021 - 2024 · Fed-regulated financial infrastructure`
 
 - Built LCR/NSFR reporting pipelines processing ~10B records/day across the entire capital reporting stack.
-- Redesigned the capital allocation engine (linear programming, $93B derivatives portfolio), closing a $3.2B regulatory gap.
+- Redesigned the capital allocation engine ($93B derivatives portfolio), closing a $3.2B regulatory gap.
 - Shipped a shift-left validation framework, pub/sub tiered data classification, and group-based RBAC platform-wide.
 
 Public filings: [LCR](https://www.goldmansachs.com/investor-relations/financials/other-information/2025/3q-2025-liquidity-coverage-ratio.pdf) &nbsp;·&nbsp; [NSFR](https://www.goldmansachs.com/investor-relations/financials/other-information/2025/3q-4q-nsfr-2025.pdf)
