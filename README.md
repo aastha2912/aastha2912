@@ -18,9 +18,9 @@ End-to-end agentic pipeline for vulnerability detection and patch synthesis acro
 
 Built the benchmark, eval pipeline, and agentic detection layer across 2,376 tasks and 27 CWEs. Key finding: even state-of-the-art models show a 20-27% drop in correct and secure outputs from single-turn to multi-turn, and agents make it worse, not better.
 
-**ARVO Patching Agent Evals · DARPA AIxCC** &nbsp;[GitHub](https://github.com/aastha2912/aixcc-afc-archive/tree/main/crs/arvo-patching-agent)
+**ARVO Patching Agent Evals · DARPA AIxCC Environment** &nbsp;[GitHub](https://github.com/aastha2912/aixcc-afc-archive/tree/main/crs/arvo-patching-agent)
 
-Integrated the Theori patching agent with the ARVO dataset inside the DARPA AIxCC environment and ran structured evals: detection accuracy, patch quality, and how much of the performance is reasoning vs memorization.
+Integrated the Theori patching agent with the ARVO dataset using the DARPA AIxCC AFC evaluation environment as part of ongoing UMD security research and ran structured evals: detection accuracy, patch quality, and how much of the performance is reasoning vs memorization.
 
 **CVE Vulnerability Reproduction Agent** &nbsp;[GitHub](https://github.com/aastha2912/cve-vuln-reproduction)
 
