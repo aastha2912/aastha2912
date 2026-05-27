@@ -58,3 +58,6 @@ Public filings: [LCR](https://www.goldmansachs.com/investor-relations/financials
 ## Stack
 
 Python · Java · C/C++ · GCP · Kubernetes · Docker · Kafka · PostgreSQL · Terraform · Semgrep · CodeQL · LangChain
+
+---
+<sub>![Profile views](https://komarev.com/ghpvc/?username=aastha2912&style=flat&color=grey&label=profile+views)</sub>
